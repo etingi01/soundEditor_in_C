@@ -1,0 +1,74 @@
+/**
+
+@mainpage main
+
+@author Evanthia Tingiri
+@author Rafaella Louka
+
+To programma einai mia vivliothiki leitourgiwn epeksergasias arxeiwn hxou .wav\n
+
+Yparxoun stin vivliothiki oi 5 ipoxrewtikes leitourgies alla kai 3 epiprosthetes.\n
+
+Prwti leitourgia:\n
+Ektipwsi twn stoixeiwn tou header enos arxeiou hxou. Mporei na dextei aprosdioristo\n
+arithmo arxeiwn hxou.\n
+Kaleitai apo ti grammi entolwn ean to prwto orisma einai i entoli -list
+
+Defteri Leitourgia:\n
+Metatrepei to arxeio hxou apo stereofwniko se monofwniko. Mporei na dextei\n
+aprosdioristo arithmo arxeiwn.\n
+Kaleitai me to orisma: -mono
+
+Triti Leitourgia:\n
+Eksagwgi kommatiou hxou dosmenis tis xronikis diarkeias pou apaiteta apo ton xristi.\n
+H leitourgia afti kaleitai me to orisma: -chop\n
+Epeita prepei na dothei to onoma tou arxeiou hxou kai akolouthws ta defterolepta\n
+pou thelei o xristis na ginei o temaxismos.\n
+An dothoun lathos defterolepta tote parousiazetai minima lathous.
+
+Tetarti Leitourgia:\n
+Antistrofi arxeiou hxou se ena kainourgio arxeio.\n
+H leitourgia kaleitai me to orisma: -reverse\n
+Kai pali, mporei na kalestei gia aperioristo arithmo dosmenwn arxeiwn.
+
+Pempti Leitourgia:\n
+Elegxos omoiotitas arxeiwn me 2 tropous:\n
+->Texniki taftisis tou Efklidi (pio grigori alla ligotero akrivis)\n
+->Texniki taftisis Megistis Koinis Ypo-akolouthias (LCSS - akrivesteri alla arketa\n
+  xronovora.
+Mporei na kalestei kai pali gia aprosdioristo arithmo arxeiwn, ta opoia tha sigkrinei\n
+me to prwto pou exei dothei.\n
+Kaleitai otan to prwto orisma einai: -similarity
+
+
+Epiprosthetes Leitourgies:\n
+--------------------------\n
+
+Prwti Epiprostheti:\n
+Dexetai dyo arxeia hxou kai ta enwnei se ena, sto opoio afta paizontai taftoxrona\n
+to ena panw sto allo.\n
+H leitourgia afti DEN dexetai aprosdioristo arithmo arxeiwn, para mono 2.\n
+Kaleitai me to orisma: -ep
+
+
+Defteri Epiprostheti:\n
+Dexetai ena arxeio hxou kai to anaparagei se ena kainourgio arxeio, alla diakoptomeno,\n
+diladi me pafseis.\n
+Dexetai aprosdioristo arithmo dothentwn arxeiwn.\n
+Kaleitai me to orisma: -pro
+
+Triti Epiprostheti:\n
+Dexetai MONO 2 arxeia hxou, tipou .wav kai ta sinenwnei se ena eniaio arxeio, sto\n
+opoio afta ektelountai enallaks gia kapoia defterolepta.\n
+Epanalamvanomena diladi, paizei gia kapoia defterolepta to ena, meta to allo kai kok.\n
+Kaleitai me to orisma: -enal
+
+
+----------------------------------------------------------------------------------------\n
+
+
+
+
+
+
+*/
